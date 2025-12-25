@@ -1,0 +1,5 @@
+Ticker,Beta (Risk),Alpha Annual (%),R-Squared,Alpha Significant?
+TSLA,2.299,37.73,0.257,No
+JPM,0.841,14.27,0.238,No
+COST,0.822,19.68,0.311,No
+LLY,0.649,26.52,0.08,No
