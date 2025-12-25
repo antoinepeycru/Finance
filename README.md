@@ -1,0 +1,6 @@
+Project Description: Financial Performance Analytics Dashboard
+I have built a comprehensive financial analytics tool in Python designed to evaluate and compare the performance of various stocks, such as TSLA, JPM, COST, and LLY.
+
+The core of this project lies in its ability to automate the retrieval of real-time and historical market data using the yfinance library. Beyond simple price tracking, the dashboard performs deep financial calculations, including annualized returns and volatility, to assess the profitability of each asset relative to its market risk. To provide a clearer picture of efficiency, I integrated the Sharpe Ratio, allowing for a direct comparison of risk-adjusted performance across the portfolio.
+
+Furthermore, the analysis incorporates a Maximum Drawdown calculation to measure the historical peak-to-trough decline of each stock, offering critical insights into potential downside risks. Finally, the project translates these complex metrics into a visual format by generating a cumulative return chart with matplotlib. This provides an intuitive look at how an initial investment would have evolved over time, helping to distinguish which assets offer the most stable long-term growth.
